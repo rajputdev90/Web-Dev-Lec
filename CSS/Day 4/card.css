@@ -1,0 +1,164 @@
+       *{
+            margin: 0px;
+        }
+        body{
+            margin: 0px;
+        }
+        nav{
+            height: 100px;
+            background-color: black;
+        }
+        h1{
+            position: relative;
+            top: 20px;
+            color: white;
+        }
+        h4{
+            margin: 5px;
+            position: relative;
+            top: 20px;
+            color: white;
+        }
+        #box1{
+            border: 3px solid blue;
+            height: 280px;
+            width: 250px;
+            position: absolute;
+            top: 50px;
+            left: 100px;
+
+
+        }
+        #main{
+            background-color: rgb(25, 110, 184);
+            display: inline-block;
+            position: relative;
+        }
+        
+        #sw{
+            position: relative;
+            top: 40px;
+            
+        }
+        #swp{
+            text-align: center;
+            position: relative;
+            top: 70px;
+        }
+        #swr{
+            position: relative;
+            top: 92px;
+        }
+
+
+        #box2{
+            border: 3px solid green;
+            height: 280px;
+            width: 250px;
+            position: absolute;
+            top: 80px;
+            left: 400px;
+
+
+        }
+        #box3{
+            border: 3px solid orange;
+            height: 300px;
+            width: 300px;
+            position: absolute;
+            top: 40px;
+            left: 700px;
+
+        }
+        #box4{
+            border: 3px solid indigo;
+            height: 350px;
+            width: 270px;
+            position: absolute;
+            top: 40px;
+            left: 1050px;
+            
+        }
+
+
+        button{
+            padding: 10px 17px;
+            background-color: black;
+            color: white;
+            border: none;
+        }
+
+
+
+
+        #pfp{
+            /* background-color: aqua; */
+            height: 300px;
+            width: 250px;
+            position: absolute;
+            top: 600px;
+            left: 590px;
+        }
+         #up{
+            height: 50%;
+            background-color: rgb(83, 125, 249);
+            position: relative;
+            border-radius: 20px 20px 0px 20px;
+        }
+        #bottom{
+            height: 50%;
+            background-color: rgb(230, 220, 220);
+            border-radius: 0px 20px 20px 20px;
+        }
+        #cir{
+
+            height: 90px;
+            width: 90px;
+            background-color: white;
+            border-radius: 100%;
+            position: absolute;
+            left: 75px;
+            top: 27px;
+            
+        }
+        img{
+            height: 88%;
+            width: 88%;
+            border-radius: 100%;
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            border: 3.5px solid rgb(45, 45, 217);
+
+        }
+        h3{
+            margin: 0px;
+            position: relative;
+            left: 70px;
+            top: 20px;
+
+        }
+        #text{
+            /* background-color: aqua; */
+            width: 70%;
+            text-align: center;
+            font-size: small;
+            position: relative;
+            top: 30px;
+            left: 30px;
+        }
+        #haha{
+            padding: 6px 20px;
+
+            background-color: rgb(83, 125, 249);
+            color: white;
+            border: none;
+            border-radius: 5px;
+            position: relative;
+            top: 45px;
+            left: 70px;
+        }
+
+
+
+

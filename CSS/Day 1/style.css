@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+h3{
+    color: rgb(158, 144, 92);
+}
+div{
+    background-color: rgb(234, 204, 232);
+  
+  border-radius: 50px;
+}
+#one{
+    color: rgb(189, 114, 114);
+}
+.two{
+    color: rgb(131, 152, 184);
+}
+#main{
+    background-color: rgb(174, 239, 220);
+    height: 400px;
+    width: 400px;
+}
+#child{
+    background-color: rgb(170, 102, 102);
+    height: 50%;
+    width: 50%;
+}
+#vhvw{
+    background-color: chocolate;
+    height: 100vh;
+    width: 100vw;
+}
